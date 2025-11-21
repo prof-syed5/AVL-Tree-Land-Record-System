@@ -40,10 +40,10 @@ This project ensures fast operations — O(log n) time complexity for insert, se
 ## Project Structure
 
 - Land-Records-Management-AVL
-  - 📜 app.py                      # Streamlit GUI interface
-  - 📜 land_Recod-Management.py        # Backend AVL Tree logic
-  - 📜 README.md                   # Documentation file
-  - 📜 Project_Report.md         # Viva/report documentation
+  -  app.py                      # Streamlit GUI interface
+  -  land_Recod-Management.py        # Backend AVL Tree logic
+  -  README.md                   # Documentation file
+  -  Project_Report.md         # Viva/report documentation
 
 ## How to Run the Project
 
