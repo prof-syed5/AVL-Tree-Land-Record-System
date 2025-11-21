@@ -119,7 +119,7 @@ By building this project, the student learns:
 
 ## Developer
 
-Syed Nalain Abbas (Pof.SYED)
+Syed Nalain Abbas (Prof.SYED)
 
 Superior University Lahore
 
