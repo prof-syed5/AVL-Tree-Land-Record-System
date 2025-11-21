@@ -1,6 +1,6 @@
 # **_Project Report: Land Records Management System (AVL Tree)_**
 
-**_Student:_** Syed Nalain Abbas (102) — 3B
+**_Student:_** Syed Nalain Abbas(Prof.Syed)
 
 **_Course:_** Data Structures and Algorithms
 
@@ -75,3 +75,4 @@ GUI using Tkinter or Streamlit.
 SQLite-based storage for large datasets.
 
 Range queries, pagination, and multi-key sorting.
+
